@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and swap files
+*.tmp
+*.log
+*.xwd
+*.swp
+*~
+.DS_Store
+
+# User-specific runtime files
+spotify_cover_raw.tmp

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/piyush/.config/conky/Astronaut/start.sh --startup
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Conky Astronaut
+Name=Conky Astronaut
+Comment=Starts Astronaut Conky on login
